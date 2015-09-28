@@ -1,5 +1,5 @@
 {
-  "name": "kozz/collection",
+  "name": "yadelivery/collection",
   "type": "library",
   "description": "Powerful Data Storage based on SplDoublyLinkedList",
   "keywords": ["Collection", "Storage", "Iterator", "SPL", "LinkedList", "php", "cursor", "iterator"],
